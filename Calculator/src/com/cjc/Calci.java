@@ -7,6 +7,6 @@ public class Calci {
 public void add()
 {
 	c=a+b;
-	System.out.println("addition of two numbers is: " +c);
+	System.out.println("addition of two    numbers is:      " +c);
 }
 }
